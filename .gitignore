@@ -1,0 +1,8 @@
+# Transcripciones generadas (quedan en tu PC, no en GitHub)
+transcripciones/
+# Entorno de Python
+.venv/
+__pycache__/
+*.pyc
+# Por si algún día se agrega un proxy con clave
+.env
